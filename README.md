@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Nassim
 
-<!--
-**NassimBnslmn/NassimBnslmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Computer Science at **Aix-Marseille Université**  
+🚀 New to GitHub — just getting started building my professional presence here!  
+💻 Passionate about **data analysis**, **data science**, **AI**, and **software development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 📊 I love turning raw data into insights  
+- 🤖 Exploring the world of **machine learning** and **AI**  
+- 🧰 Comfortable with Python, SQL, and data tools  
+- 🌍 Interested in building tech with real-world impact  
+- 🔄 Currently working on academic and personal projects — more coming soon!
+
+---
+
+## 📈 GitHub Stats
+
+![Nassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nassimyourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 Portfolio coming soon!
+- 📧 Reach me at: **nassimbenslimane123@gmail.com** or **nassim.benslimane@etu.univ-amu.fr**
+
+---
+
+> 🛠 This is a **new pro GitHub account** made when I joined Aix-Marseille — follow along as it grows!
