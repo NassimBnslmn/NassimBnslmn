@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nassim
 
-🎓 Master's student in Computer Science at **Aix-Marseille Université**  
-🚀 New to GitHub — just getting started building my professional presence here!  
+🎓 Master's student in Data Science at **Aix-Marseille Université**  
 💻 Passionate about **data analysis**, **data science**, **AI**, and **software development**
 
 ---
