@@ -17,7 +17,7 @@
 
 ## 📈 GitHub Stats
 
-![Nassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nassimyourusername&show_icons=true&theme=radical)
+![Nassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=NassimBnslmn&show_icons=true&theme=radical)
 
 ---
 
